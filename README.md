@@ -4,11 +4,11 @@ CampusNav is a user-friendly web application designed to assist students and vis
 
 ## Features
 
-- **Interactive Campus Map:** Explore a detailed map of the campus with markers for key locations.
-- **User Location Tracking:** Real-time tracking of the user's location on the map.
-- **Campus Location Information:** Popup details for each location, including names, images, and additional information.
-- **Navigation and Directions:** Get step-by-step directions from your current location to any destination on the campus.
-- **Responsive Design:** A responsive design ensures a consistent and user-friendly experience across various devices.
+- **🗺️ Interactive Campus Map:** Explore a detailed map of the campus with markers for key locations.
+- **📍 User Location Tracking:** Real-time tracking of the user's location on the map.
+- **ℹ️ Campus Location Information:** Popup details for each location, including names, images, and additional information.
+- **🚀Navigation and Directions:** Get step-by-step directions from your current location to any destination on the campus.
+- **📱Responsive Design:** A responsive design ensures a consistent and user-friendly experience across various devices.
 
 ## Getting Started
 
