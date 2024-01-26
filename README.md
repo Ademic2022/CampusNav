@@ -17,7 +17,7 @@ To run the CampusNav application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/CampusNav.git
+   git clone https://github.com/ademic2022/CampusNav.git
    cd CampusNav
    ```
 
